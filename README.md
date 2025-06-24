@@ -1,4 +1,4 @@
-# 🔋 Battery Supply Chain Simulation using CatenaX
+# 🔋 Battery Supply Chain Simulation using Siemens Tecnomatix Plant Simulation
 
 This project simulates a lithium-ion cylindrical battery manufacturing supply chain using digital twin and CatenaX architecture. It was developed as part of a university coursework project focused on production line simulation, process analysis, and defect detection across each stage of battery manufacturing—from slurry mixing to final product testing.
 
