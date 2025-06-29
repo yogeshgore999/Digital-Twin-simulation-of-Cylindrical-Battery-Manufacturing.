@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1C2IoyGSrBnQkwy4DZEA5lidRZDBfD2JV?usp=sha
 - Full simulation of NMC811 battery cell production line  
 - CatenaX-based digital twin architecture simulation  
 - Detailed process mapping: Mixing, Coating, Drying, Calendaring, Slitting, Winding, Sealing, and Testing Maturing
-- Defect identification techniques: Laser triangulation, Infrared spectrum, Eddy current  
+- Defect identification techniques: Photo imaging, Infrared spectrum, Eddy current  
 - Integration of environmental controls and equipment specifications 
 
 ## 📊 Technologies Used
